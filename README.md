@@ -1,5 +1,6 @@
 # pythonCrawler
 A crawler written in python 3 that gets teachers' information and comments from vipkid.
+<hr>
 <br>
 Data files that crawled by the program. The number at the end of file name is the teachers count.
 <br>
