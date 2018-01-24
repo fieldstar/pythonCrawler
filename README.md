@@ -1,6 +1,7 @@
 # pythonCrawler
 A crawler written in python 3 that gets teachers' information and comments from vipkid.
 <hr>
+The data file can be accessed at:https://pan.baidu.com/s/1dHdF4C5 password：pg78
 <br>
 Data files that crawled by the program. The number at the end of file name is the teachers count.
 <br>
